@@ -1,1 +1,1 @@
-# Rotate_right_in_Java
+# Rotate right in Java
